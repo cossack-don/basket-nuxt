@@ -1,6 +1,9 @@
 # basket-nuxt
+
 # link TZ https://frontend-test.idaproject.com/
-# link maket https://frontend-test.idaproject.com/
+
+# link maket https://www.figma.com/file/nePGt9gt9kOhrPYZjhp4eO/IDA-Frontend-Test?node-id=1%3A1409
+
 ## Build Setup
 
 ```bash
